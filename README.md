@@ -1,2 +1,0 @@
-# micronaut-app
-Micronaut Evaluation
